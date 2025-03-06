@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://samiaiodiscordbot:toto11223344551@cluster0.qieot.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
